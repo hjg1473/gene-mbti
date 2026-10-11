@@ -1,0 +1,11 @@
+{
+  "name": "gene-mbti",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "유전자 MBTI — 내 몸의 숨겨진 특징을 발견하는 테스트",
+  "scripts": {
+    "dev": "npx serve public",
+    "share": "node scripts/build-share.mjs"
+  }
+}
