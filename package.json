@@ -1,9 +1,9 @@
 {
-  "name": "gene-mbti",
+  "name": "bodyprint",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "유전자 MBTI — 내 몸의 숨겨진 특징을 발견하는 테스트",
+  "description": "BODYPRINT — 너 이거 돼? 몸의 숨은 기능 12가지로 그리는 나만의 지문",
   "scripts": {
     "dev": "npx serve public",
     "share": "node scripts/build-share.mjs"
